@@ -1,0 +1,15 @@
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\bin\Debug\net6.0\task4findmax.exe
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\bin\Debug\net6.0\task4findmax.deps.json
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\bin\Debug\net6.0\task4findmax.runtimeconfig.json
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\bin\Debug\net6.0\task4findmax.dll
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\bin\Debug\net6.0\task4findmax.pdb
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\task4findmax.csproj.AssemblyReference.cache
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\task4findmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\task4findmax.AssemblyInfoInputs.cache
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\task4findmax.AssemblyInfo.cs
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\task4findmax.csproj.CoreCompileInputs.cache
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\task4findmax.dll
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\refint\task4findmax.dll
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\task4findmax.pdb
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\task4findmax.genruntimeconfig.cache
+C:\Users\Zaikina\Desktop\dz1pr\task4findmax\obj\Debug\net6.0\ref\task4findmax.dll
